@@ -56,3 +56,20 @@ escolha onde você deseja salvar o projeto e clique no botão **Extrair**.
 
 
 ***5º "configurando o frontend":*** agora iremos abrir uma nova instância do **VSCODE**  lembrando que já temos um**VSCODE** aberto! Iremos abrir outro, procure o atalho do mesmo no  Windows podemos ir no menu iniciar onde tem o ícone/logo do Windows e digitar "***Visual Studio Code***" clique em cima para abrir uma nova instância do **VSCODE**,  após abrir um novo VSCODE vamos praticamente repetir o ***passo nº 4***, vamos clicar na parte superior esquerda em  ***Arquivo***>***Abrir Pasta...*** iremos navegar ate onde nossa pasta do frontend -> ***iex-frontend*** quando acharmos a nossa pasta do frontend clicaremos no botão "***Selecionar pasta***", "*pode ser que  aparecer alguma mensagem para confiar no autor do projeto se aparecer iremos clicar em **sim, confiamos***" após selecionar a pasta ***iex-frontend*** chegou a hora de instalar o nosso projeto e rodar o mesmo no ***VSCODE*** clique em ***Terminal***>***Novo Terminal***  vai abrir uma janela dentro do ***VSCODE*** esse é o nosso ***terminal de comandos***, clicaremos nele e iremos digitar com o teclado o comando "***npm install***" após digitar aperte a tecla ***Enter*** do teclado,  o terminal vai começar a instalar as dependências do projeto frontend esse processo pode demorar uma pouco assim que terminar a instalação poderemos usar o nosso ***terminal de comandos*** , agora no ***terminal de comandos*** vamos digitar o seguinte comando "***npm start***" se tudo estiver configurado corretamente, após isso o próprio sistema já devera ser aberto no seu navegar para uso, se o mesmo não abrir automaticamente, você precisar abrir o seu navegador de internet, por exemplo o google chrome e digitar na URL: http://localhost:3000/
+
+
+### RESUMO SOBRE O SISTEMA
+
+O sistema e e baseado na api IEX onde inserimos um símbolo no input do sistema e quando clicamos no botão buscar
+o sistema verifica se esse símbolo já existe no banco de dados, se nao existir o sistema vai consumir a API da IEX e salvar alguns campos com o nome da empresa, o simbolo de pesquisa, o o ultimo preço da cotação e a hora que foi feita a cotação e salva no banco de dados, agora se o símbolo pesquisado ja existir no banco de dados o sistema pega as
+informações do banco e faz uma pequena checagem se essa informação salva no banco de ja possuem uma diferença de 15 minutos
+se tiver ele faz uma nova consulta na API para trazer novos valores e salvar no banco evitando assim consumo desnecessarios da 
+API da IEX, o sistema tambem disponibiliza um status em tempo real via banco de dados onde a cada 10 segundos ele faz uma consulta 
+no banco de dados, se existir simbolos salvos no banco ele vai mostra em tela.
+
+exemplos de símbolos para a pesquisa : ccc, fb, spy
+
+### SOBRE O SISTEMA
+
+frontend desenvolvido em REACTJS
+backend desenvolvido em NEST
