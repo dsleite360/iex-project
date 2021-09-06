@@ -1,6 +1,6 @@
 _"Esse tutorial foi baseado em um sistema operacional Windows 10, mudando pouca coisa sobre instalação e configuração em outros sistemas como Linux e Mac"_
 
-_"se o Windows perguntar sobre instalar, permitir ou confiar devemos permitir"_
+_"Se o Windows perguntar sobre instalar, permitir ou confiar devemos permitir"_
 
 **Requerimentos**
 
