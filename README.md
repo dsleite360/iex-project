@@ -3,7 +3,7 @@
 ### Requerimentos
 
 
-***1º*** instalar o **Node.js** na sua máquina escolhendo a versão do seu sistema operacional, site para download: https://nodejs.org/ escolha a versão **LTS**, a instalação do Node e bem simples, pode clicar em **Next** marcar a caixinha de aceito de termo **Next**, **Next**, **Next**, **Next** até aparecer o botão de **Install**, após isso aguardamos a instalação do NODE.js e clicar no botão **Finish**.
+***1º*** instalar o **Node.js** na sua máquina escolhendo a versão do seu sistema operacional, site para download: https://nodejs.org/ escolha a versão **LTS**, a instalação do Node e bem simples, pode clicar em **Next** marcar a caixinha de aceito de termo **Next**, **Next**, **Next**, **Next** até aparecer o botão de **Install**, após isso aguardamos a instalação do NODE.js e clicaremos no botão **Finish**.
 
 
 ***2º*** instalar o **Postgress** na máquina escolhendo a versão do seu sistema operacional  site para download: https://www.postgresql.org/ clicar no botão download, selecione a versão do seu sistema operacional, clique em "Download the installer"  de preferência para a versão 13 do postgres ou a versão mais recente do seu sistema operacional, clique em **download** para fazer o download do instalador, após o download inicie o instalador:
