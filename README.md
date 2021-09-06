@@ -74,4 +74,4 @@ no banco de dados, se existir simbolos salvos no banco ele vai mostra em tela.
 
 frontend desenvolvido em: ***REACTJS***
 
-backend desenvolvido em: ***NEST***
+backend desenvolvido em: ***NESTJS***
