@@ -39,6 +39,8 @@ clicar em aceitar os termos na primeira tela, e após isso clicar em **Próximo*
 
 ### CONFIGURAÇÂO
 
+"***Se o firewall do Windows pedir alguama autorização de algum programa clicaremos em aceitar!***"
+
 
 ***1º*** Abriremos o **DBeaver** "o sistema as vezes pode abrir a tela de dicas ou tips se abrir clicaremos em **close**", ***iremos clicar no botão na parte superior onde tem o desenho de uma tomada "new database connection"*** aqui é onde iremos visualizar
 as informações do nosso banco de dados. Após clicar na tomada vamos selecionar o nosso banco de dados  o **postgreSQL** que foi nossa segunda instalação em requisitos, após selecionar **postgreSQL** clicaremos no botão **Next**,"*as vezes o programa pode pedir para fazer download do driver se o seu sistema operacional não tiver e só clicar em* **download"**, na próxima nova tela devemos inserir a nossa senha no "campo **Password**" onde esta em  branco colocaremos "**teste**" após digitar a senha clicaremos no botão **Finish**. o sistema vai criar o nosso banco com o nome "postgres" que já e o padrão, esse e o lugar onde salvaremos nossas pesquisas.
