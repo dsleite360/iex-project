@@ -27,20 +27,20 @@
 
 "*vamos aguardar a instalação do **postgres** ser concluída..*"
 
-Após a instalação do **postgres** vai aparecer a nossa ***ultima tela*** onde vamos "***DESMARCAR***" a opção "***Stack BUilder may be used to download and install additional tools, drivers and applications to complement your PostgreSQL installation***" e clicar em **Finish**;
+Após a instalação do **postgres** vai aparecer a nossa ***ultima tela*** onde vamos "***DESMARCAR***" a opção "***Stack BUilder may be used to download and install additional tools, drivers and applications to complement your PostgreSQL installation***" e clicar em **Finish**.
 
 
-3º instalar o **DBeaver** na máquina escolhendo a versão do seu sistema operacional, site para download: https://dbeaver.io clique em **Download**, selecione a versão do seu sistema operacional e baixe a versão **Installer**, execute o instalador, e a primeira tela aperte **ok**, segunda tela seguinte marque a opção para aceitar os termos e clique em **Seguinte**, clique em **ok** novamente, **Seguinte**, **Aceito**, **Seguinte**, **Seguinte**, **Instalar**, após isso clique em **Terminar.**
+***3º*** instalar o **DBeaver** na máquina escolhendo a versão do seu sistema operacional, site para download: https://dbeaver.io clique em **Download**, selecione a versão do seu sistema operacional e baixe a versão **Installer**, execute o instalador, e a primeira tela aperte **ok**, segunda tela seguinte marque a opção para aceitar os termos e clique em **Seguinte**, clique em **ok** novamente, **Seguinte**, **Aceito**, **Seguinte**, **Seguinte**, **Instalar**, após isso clique em **Terminar.**
 
 
-4º instalar o **Visual Studio Code** na máquina escolhendo a versão do seu sistema operacional site para download: https://code.visualstudio.com/ a instalação desse programa e bem simples, precisamos apenas
+***4º*** instalar o **Visual Studio Code** na máquina escolhendo a versão do seu sistema operacional site para download: https://code.visualstudio.com/ a instalação desse programa e bem simples, precisamos apenas
 clicar em aceitar os termos na primeira tela, e após isso clicar em **Próximo**, **Próximo**, **Instalar**, **Concluir**.
 
 
 ### CONFIGURAÇÂO
 
 
-***1º*** Abriremos o **DBeaver** podem clicar na primeira tela de tips/dicas em **close**, ***iremos clicar no botão na parte superior onde tem o desenho de uma tomada "new database connection"*** aqui é onde iremos visualizar
+***1º*** Abriremos o **DBeaver** "o sistema as vezes pode abrir a tela de dicas ou tips se abrir clicaremos em **close**", ***iremos clicar no botão na parte superior onde tem o desenho de uma tomada "new database connection"*** aqui é onde iremos visualizar
 as informações do nosso banco de dados. Após clicar na tomada vamos selecionar o nosso banco de dados  o **postgreSQL** que foi nossa segunda instalação em requisitos, após selecionar **postgreSQL** clicaremos no botão **Next**,"*as vezes o programa pode pedir para fazer download do driver se o seu sistema operacional não tiver e só clicar em* **download"**, na próxima nova tela devemos inserir a nossa senha no "campo **Password**" onde esta em  branco colocaremos "**teste**" após digitar a senha clicaremos no botão **Finish**. o sistema vai criar o nosso banco com o nome "postgres" que já e o padrão, esse e o lugar onde salvaremos nossas pesquisas.
 
 
