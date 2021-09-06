@@ -69,7 +69,6 @@ se tiver ele faz uma nova consulta na API para trazer novos valores e salvar no 
 API da IEX, o sistema tambem disponibiliza um status em tempo real via banco de dados onde a cada 10 segundos ele faz uma consulta 
 no banco de dados, se existir simbolos salvos no banco ele vai mostra em tela.
 
-exemplos de símbolos para a pesquisa : ccc, fb, spy
 
 ### SOBRE O SISTEMA
 
