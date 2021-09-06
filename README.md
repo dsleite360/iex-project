@@ -18,7 +18,7 @@
 
 "*vamos aguardar a instalação do **postgres** ser concluída..*"
 
-Após a instalação do **postgres** vai aparecer a nossa ***ultima tela*** onde vamos desmarcar a opção "***Stack BUilder may be used to download and install additional tools, drivers and applications to complement your PostgreSQL installation***" e clicar em **Finish**;
+Após a instalação do **postgres** vai aparecer a nossa ***ultima tela*** onde vamos "***DESMARCAR***" a opção "***Stack BUilder may be used to download and install additional tools, drivers and applications to complement your PostgreSQL installation***" e clicar em **Finish**;
 
 
 3º instalar o **DBeaver** na máquina escolhendo a versão do seu sistema operacional, site para download: https://dbeaver.io clique em **Download**, selecione a versão do seu sistema operacional e baixe a versão **Installer**, execute o instalador, e a primeira tela aperte **ok**, segunda tela seguinte marque a opção para aceitar os termos e clique em **Seguinte**, clique em **ok** novamente, **Seguinte**, **Aceito**, **Seguinte**, **Seguinte**, **Instalar**, após isso clique em **Terminar.**
