@@ -42,7 +42,7 @@ export function FindForm () {
 
   return (
     <FormContainer>
-      {symbols.length > 0 && (<small>Atualizações em tempo real das ultimas 3 buscas salva no banco de dados a cada 10 segundo</small>)}
+      {symbols.length > 0 && (<small>Ultimos símbolos salvos no sistema</small>)}
 
       <SymbolCards>
         {symbols.map(symb => (
