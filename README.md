@@ -7,14 +7,23 @@
 ***2º*** instalar o **Postgress** na máquina escolhendo a versão do seu sistema operacional  site para download: https://www.postgresql.org/ clicar no botão download, selecione a versão do seu sistema operacional, clique em "Download the installer"  de preferência para a versão 13 do postgres ou a versão mais recente do seu sistema operacional, clique em **download** para fazer o download do instalador, após o download inicie o instalador:
 
 ***1ª tela -*** tela de setup clicaremos em **Next**;
+
 ***2ª tela -*** sobre o diretório de instalação clicaremos em **Next**;
+
 ***3ª tela -*** sobre os componentes do banco clicaremos em **Next**;
+
 ***4ª tela*** - sobre diretório data clicaremos em **Next**;
+
 ***5ª tela*** - sobre password precisamos colocar a senha do usurário postgres nos dois campos em branco a senha é: "***teste***" assim que colocar a senha teste "***teste***" nos dois campos clicaremos em em **Next**;
+
 ***6ª tela*** - sobre a porta onde o banco vai rodar deixaremos o padrão e clicaremos em **Next**;
+
 ***7ª tela*** - podemos deixar como default locale e clicar em **Next**;
+
 ***8ª tela*** - sobre o sumario da instalação clicaremos em **Next**;
+
 ***9ª tela*** -  tela onde tudo esta pronto para instalação clicaremos em **Next**;
+
 
 "*vamos aguardar a instalação do **postgres** ser concluída..*"
 
