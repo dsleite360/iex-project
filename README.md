@@ -3,31 +3,30 @@
 ### Requerimentos
 
 
-***1º*** instalar o **Node.js** na sua máquina escolhendo a versão do seu sistema operacional, site para download: https://nodejs.org/ escolha a versão **LTS**, a instalação do Node e bem simples, pode clicar em **Next** marcar a caixinha de aceito de termo **Next**, **Next**, **Next**, **Next** até aparecer o botão de **Install**, após isso aguardamos a instalação do NODE.js e clicaremos no botão **Finish**.
+***1º*** instalar o **Node.js** na sua máquina escolhendo a versão do seu sistema operacional, site para download: https://nodejs.org/ escolha a versão **LTS**, após fazer o download do instalador, instalar o Node e bem simples, podemos clicar em **Next** marcar a caixinha de aceito de termo cliar em **Next>**, **Next>**, **Next>**, **Next>** até aparecer o botão de **Install>**, após isso aguardamos a instalação do **NODE.js** e clicaremos no botão **Finish**.
 
 
-***2º*** instalar o **Postgress** na máquina escolhendo a versão do seu sistema operacional  site para download: https://www.postgresql.org/ clicar no botão download, selecione a versão do seu sistema operacional, clique em "Download the installer"  de preferência para a versão 13 do postgres ou a versão mais recente do seu sistema operacional, clique em **download** para fazer o download do instalador, após o download inicie o instalador:
+***2º*** instalar o **Postgress** na máquina escolhendo a versão do seu sistema operacional  site para download: https://www.postgresql.org/ clicar no botão download, selecione a versão do seu sistema operacional, clique em **"Download the installer"**  de preferência para a versão 13 do postgres ou a versão mais recente do seu sistema operacional, clique em **download** para fazer o download do instalador, após o download inicie o instalador:
 
-***1ª tela -*** tela de setup clicaremos em **Next**;
-***2ª tela -*** sobre o diretório de instalação clicaremos em **Next**;
-***3ª tela -*** sobre os componentes do banco clicaremos em **Next**;
-***4ª tela*** - sobre diretório data clicaremos em **Next**;
-***5ª tela*** - sobre password precisamos colocar a senha do usurário postgres nos dois campos em branco a senha é: "***teste***" assim que colocar a senha teste "***teste***" nos dois campos clicaremos em em **Next**;
-***6ª tela*** - sobre a porta onde o banco vai rodar deixaremos o padrão e clicaremos em **Next**;
-***7ª tela*** - podemos deixar como default locale e clicar em **Next**;
-***8ª tela*** - sobre o sumario da instalação clicaremos em **Next**;
-***9ª tela*** -  tela onde tudo esta pronto para instalação clicaremos em **Next**;
+***1ª tela -*** tela de setup clicaremos em **Next>**;
+***2ª tela -*** sobre o diretório de instalação clicaremos em **Next>**;
+***3ª tela -*** sobre os componentes do banco clicaremos em **Next>**;
+***4ª tela*** - sobre diretório data clicaremos em **Next>**;
+***5ª tela*** - sobre password precisamos colocar a senha do usurário postgres nos dois campos em branco a senha é: "***teste***" assim que colocar a senha teste "***teste***" nos dois campos clicaremos em em **Next>**;
+***6ª tela*** - sobre a porta onde o banco vai rodar o postgres o padrão da porta:***5432***   deixaremos o padrão e clicaremos em **Next>**;
+***7ª tela*** - podemos deixar como default locale e clicar em **Next>**;
+***8ª tela*** - sobre o sumário da instalação clicaremos em **Next>**;
+***9ª tela*** -  tela onde tudo esta pronto para instalação clicaremos em **Next>**;
 
 "*vamos aguardar a instalação do **postgres** ser concluída..*"
 
-Após a instalação do **postgres** vai aparecer a nossa ***ultima tela*** onde vamos desmarcar a opção "***Stack BUilder may be used to download and install additional tools, drivers and applications to complement your PostgreSQL installation***" e clicar em **Finish**;
+Após a instalação do **postgres** vai aparecer a nossa ***10ª e ultima tela*** onde vamos desmarcar a opção "***Stack BUilder may be used to download and install additional tools, drivers and applications to complement your PostgreSQL installation***" e clicar em **Finish**;
 
 
-3º instalar o **DBeaver** na máquina escolhendo a versão do seu sistema operacional, site para download: https://dbeaver.io clique em **Download**, selecione a versão do seu sistema operacional e baixe a versão **Installer**, execute o instalador, e a primeira tela aperte **ok**, segunda tela seguinte marque a opção para aceitar os termos e clique em **Seguinte**, clique em **ok** novamente, **Seguinte**, **Aceito**, **Seguinte**, **Seguinte**, **Instalar**, após isso clique em **Terminar.**
+3º instalar o **DBeaver** na máquina escolhendo a versão do seu sistema operacional, site para download: https://dbeaver.io clique em **Download**, selecione a versão do seu sistema operacional e baixe a versão **Installer**, execute o instalador, e a primeira tela aperte **ok** essa tela vai aparecer novamente para clicarmos em **ok** parecendo que nao foi instalado o programa, na segunda tela seguinte marque a opção para aceitar os termos e clique em **Seguinte**, clique em **ok** novamente, **Seguinte**, **Aceito**, **Seguinte**, **Seguinte**, **Instalar**, após isso clique em **Terminar.**
 
 
-4º instalar o **Visual Studio Code** na máquina escolhendo a versão do seu sistema operacional site para download: https://code.visualstudio.com/ a instalação desse programa e bem simples, precisamos apenas
-clicar em aceitar os termos na primeira tela, e após isso clicar em **Próximo**, **Próximo**, **Instalar**, **Concluir**.
+4º instalar o **Visual Studio Code** na máquina escolhendo a versão do seu sistema operacional site para download: https://code.visualstudio.com/ a instalação desse programa e bem simples, precisamos apenas clicar em aceitar os termos na primeira tela, e após isso clicar em **Próximo**, **Próximo**, **Instalar**, **Concluir**.
 
 
 ### CONFIGURAÇÂO
