@@ -9,16 +9,26 @@
 2º - Instalar o **Postgress** na sua máquina escolhendo a versão do seu sistema operacional, site para download: https://www.postgresql.org/ clicar no botão **download**, selecione a versão do seu sistema operacional, clique em "**Download the installer**" de preferência para a versão ***13 do Postgress*** ou a versão mais recente do seu sistema operacional, após o download inicie o instalador:
 
 1ª tela - tela de setup clicaremos em **Next>**;
+
 2ª tela - sobre o diretório de instalação clicaremos em **Next>**;
+
 3ª tela - sobre os componentes do banco clicaremos em Next>;
+
 4ª tela - sobre diretório data clicaremos em **Next>**;
+
 5ª tela - sobre password precisamos colocar a senha do usurário postgres nos dois campos em branco a senha é: "teste" assim que colocar a senha "teste" nos dois campos, clicaremos em **Next**>;
+
 6ª tela - sobre a porta onde o banco vai rodar o postgres o padrão da porta: **5432** deixaremos o padrão e clicaremos em **Next**>;
+
 7ª tela - podemos deixar como default locale e clicar em **Next**>;
+
 8ª tela - sobre o sumário da instalação clicaremos em **Next**>;
+
 9ª tela - tela onde estará pronto para instalação clicaremos em **Next**>;
 
+
 "*Vamos aguardar a instalação do postgres ser concluída...*"
+
 
 Após a instalação do **Postgres**, vai aparecer a nossa 10ª e última tela onde vamos desmarcar a opção "***Stack BUilder may be used to download and install additional tools, drivers and applications to complement your PostgreSQL installation***" e clicar no botão **Finish>**;
 
