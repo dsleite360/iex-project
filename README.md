@@ -12,7 +12,7 @@
 
 2ª tela - sobre o diretório de instalação clicaremos em **Next>**;
 
-3ª tela - sobre os componentes do banco clicaremos em Next>;
+3ª tela - sobre os componentes do banco clicaremos em **Next**>;
 
 4ª tela - sobre diretório data clicaremos em **Next>**;
 
